@@ -1,7 +1,33 @@
+
+
+Project Title
+One Paragraph of project description goes here
+
+
+Basic blog where users can read, create and comment on text-only articles. Logged in users can create articles and read exclusive content. Supports also changes to username (changing also the username in all comments posted) as well as deleting account. Built with a very basic MVC approach. Supports email registration and authentication.  
+Includes basic UI tests for standard operations: registration, login and article creation. Any feedback more than welcome :-)
+
+Prerequisites
+Node JS
+NPM
+
+Running the tests
+$ npm test //  To trigger all scripts (3) in the testing folder.  	
+
+## Built With
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-Below you will find some information on how to perform common tasks.<br>
-You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+## Folder Structure
+
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+
+
+
+
+
 
 ## Table of Contents
 
