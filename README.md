@@ -24,6 +24,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Folder Structure
 
+
+|-src 
+  |-AgeDisplayer
+  |-Button
+  |-Card
+  |-Chart
+  |  |-Data (includes database of raw data) 
+  |-ErrorBoundary
+  |-Footer
+  |-Slider
+  |-Title
+
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
