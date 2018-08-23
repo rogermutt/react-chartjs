@@ -12,7 +12,11 @@ Node JS
 NPM
 
 Running the tests
-$ npm test //  To trigger all scripts (3) in the testing folder.  	
+$ npm test //  To trigger all scripts (3) in the testing folder. 
+
+## Screengrab
+
+![alt text](screenshot.png "Screenshot with 12 months of data")
 
 ## Built With
 
@@ -22,10 +26,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details
-
-
-
-
 
 
 
