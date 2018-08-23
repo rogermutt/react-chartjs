@@ -16,7 +16,7 @@ $ npm test //  To trigger all scripts (3) in the testing folder.
 
 ## Screengrab
 
-![alt text](screenshot.png "Screenshot with 12 months of data")
+![alt text](src/screenshot.png "Screenshot with 12 months of data")
 
 ## Built With
 
